@@ -19,11 +19,11 @@ This repository contains MATLAB code for image classification using Support Vect
 
 
 ## Navigate to the repository directory:
-  cd image-svm-classification
+       cd image-svm-classification
 
     Run the MATLAB scripts for each classification task:
-       * Run teddy_classification.m for the Teddy vs. Not Teddy classification.
-       * Run car_classification.m for the Car vs. Not Car classification.
+        Run teddy_classification.m for the Teddy vs. Not Teddy classification.
+        Run car_classification.m for the Car vs. Not Car classification.
 
     Follow the instructions in the scripts to load datasets, preprocess images, train SVMs, and evaluate classification performance.
 
